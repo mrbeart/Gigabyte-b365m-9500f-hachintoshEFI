@@ -12,7 +12,3 @@
 | 网卡 | 英特尔 Ethernet Connection  I219-V / 技嘉 |
 | 无线网卡 | 博通BCM94360CD |
 
-## 已替换USBinjectall驱动，使用前先进行usb定制
-## 建议先安装Catalina进行usb定制再进行系统升级，否则在bigsur及更高版本下可能会导致部分usb端口不可用
-## 已剔除MLB、SystemSerialNumber、SystemUUID，使用请自行添加，默认机型设置为Macpro（2017）（iMacPro1,1）
-## 节能5项已开启
