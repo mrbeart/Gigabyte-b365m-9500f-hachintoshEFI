@@ -12,3 +12,4 @@
 | 网卡 | 英特尔 Ethernet Connection  I219-V / 技嘉 |
 | 无线网卡 | 博通BCM94360CD |
 
+显卡已卖CPU已换 此EFI暂停更新
