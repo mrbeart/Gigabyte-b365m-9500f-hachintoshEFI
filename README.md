@@ -1,4 +1,4 @@
-# Gigabyte-b365m-9500f-hachintoshEFI
+# Gigabyte-b365m-9600k-hachintoshEFI
 | 电脑型号 | 技嘉 B365 M AORUS ELITE 台式电脑 |
 | --- | --- |
 | 操作系统 | macOS Monterey Beta |
